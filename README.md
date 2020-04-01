@@ -6,4 +6,4 @@ Uses [Matplotlib](https://matplotlib.org/) to generate a graph containing inform
 
 When an susceptible person gets within the 'sphere of influence' of an infected person, they get infected.
 
-![](demo.gif)
+![Demo gif](demo.gif)
